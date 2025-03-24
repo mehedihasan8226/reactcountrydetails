@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 126330000,
+      "interestingFact": "Japan has the highest number of vending machines per capita."
+    },
+    {
+      "id": 2,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 214300000,
+      "interestingFact": "Brazil is the world's largest exporter of coffee."
+    },
+      {
+      "id": 3,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38250000,
+      "interestingFact": "Canada has more lakes than the rest of the world combined."
+    },
+      {
+      "id": 4,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 109300000,
+      "interestingFact": "The ancient Egyptians invented a 365-day calendar."
+    },
+      {
+      "id": 5,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 25700000,
+      "interestingFact": "Australia is the only continent that is also a country."
+    },
+      {
+      "id": 6,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1407500000,
+      "interestingFact": "India has the world's largest postal network."
+    },
+    {
+      "id": 7,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67750000,
+      "interestingFact": "France has the most time zones of any country in the world, due to its overseas territories."
+    },
+     {
+      "id": 8,
+      "countryName": "Mexico",
+      "capital": "Mexico City",
+      "population": 126000000,
+      "interestingFact": "Mexico City is built on the ruins of the ancient Aztec city of Tenochtitlan."
+    }
+  ]

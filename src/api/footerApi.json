@@ -1,0 +1,18 @@
+
+[
+    {
+        "icon": "FaLocationDot",
+        "title": "Find us",
+        "details": "Dhaka Bangladesh"
+    },
+    {
+        "icon": "IoCall",
+        "title": "Call us",
+        "details": "01923340345"
+    },
+    {
+        "icon": "MdMessage",
+        "title": "Mail us",
+        "details": "contact@gmail.com"
+    }
+]
