@@ -28,10 +28,10 @@ const Footers = () => {
               return(
 
                 <div key={indx} className=' flex gap-1.5 justify-center items-center '>
-                    <div className='text-blue-900 text-3xl'>{footerIcons[icon]}</div>
+                    <div className='text-blue-900 text-base md:text-3xl'>{footerIcons[icon]}</div>
                     <div>
-                      <p>{title}</p>
-                      <p className='text-gray-400'>{details}</p>
+                      <p className='text-base'>{title}</p>
+                      <p className='text-gray-400 text-xs md:text-base'>{details}</p>
                     </div>
 
                 </div>
